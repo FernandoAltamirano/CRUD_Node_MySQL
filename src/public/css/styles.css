@@ -1,0 +1,22 @@
+.title{
+    font-size: 2em;
+    margin: 10px auto;
+    text-align: center;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+#success__image{
+    font-size: 8rem;
+    margin: 12% auto 0 auto;
+}
+
+#success__text{
+    font-size: 3rem;
+    margin: 0 auto;
+}
+
+#success__redirection{
+    font-size: 1.2rem;
+    margin: 0 auto;
+}
